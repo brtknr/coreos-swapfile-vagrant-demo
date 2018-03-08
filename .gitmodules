@@ -1,3 +1,6 @@
 [submodule "roles/coreos-swapfile"]
 	path = roles/coreos-swapfile
 	url = https://github.com/brtknr/coreos-swapfile
+[submodule "roles/bootstrap-os"]
+	path = roles/bootstrap-os
+	url = git@github.com:brtknr/bootstrap-os.git
