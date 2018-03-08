@@ -1,0 +1,3 @@
+[submodule "roles/coreos-swapfile"]
+	path = roles/coreos-swapfile
+	url = https://github.com/brtknr/coreos-swapfile
