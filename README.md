@@ -7,7 +7,7 @@ It is assumed that you already have the following installed on your machine:
 
 To clone:
 ```bash
-git clone --recurse-submodules git@github.com:brtknr/coreos-swapfile-vagrant-demo.git
+git clone --recurse-submodules git@github.com:stackhpc/coreos-swapfile-vagrant.git
 ```
 
 After cloning,
